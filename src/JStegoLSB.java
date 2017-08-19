@@ -4,7 +4,6 @@
 package src;
 
 import java.awt.EventQueue;
-import java.util.ArrayList;
 import javax.swing.JFrame;
 
 public class JStegoLSB {
