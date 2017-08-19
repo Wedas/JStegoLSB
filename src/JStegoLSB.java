@@ -1,4 +1,7 @@
-package main;
+/**
+ * @author <a href="mailto:vapenn@ya.ru">Vape in NN</a> 
+ */
+package src;
 
 import java.awt.EventQueue;
 import java.util.ArrayList;
