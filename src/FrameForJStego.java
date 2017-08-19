@@ -1,7 +1,7 @@
 /**
- * @author <a href="mailto:vapeinnn@gmail.com">Vape in NN</a> 
+ * @author <a href="mailto:vapenn@ya.ru">Vape in NN</a> 
  */
-package main;
+package src;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
